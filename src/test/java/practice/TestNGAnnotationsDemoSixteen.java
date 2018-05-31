@@ -11,6 +11,9 @@ import org.testng.annotations.Test;
 @Listeners(practice.ExtentReporterNG.class)
 public class TestNGAnnotationsDemoSixteen {
 	
+	
+	// parallel testing
+	
 	WebDriver driver;
 	WebDriver driver1;
 	WebDriver driver2;
