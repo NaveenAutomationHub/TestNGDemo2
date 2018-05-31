@@ -14,6 +14,8 @@ public class TestNGAnnotationsDemoSixteen {
 	
 	// parallel testing
 	
+	// cross browser testing
+	
 	WebDriver driver;
 	WebDriver driver1;
 	WebDriver driver2;
