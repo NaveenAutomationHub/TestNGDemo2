@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="practice.TestNGAnnotationsDemoSixteen" duration-ms="46497" started-at="2018-05-31T12:11:49Z" finished-at="2018-05-31T12:12:36Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="46497" started-at="2018-05-31T12:11:49Z" finished-at="2018-05-31T12:12:36Z">
+      <class name="practice.TestNGAnnotationsDemoSixteen">
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:practice.TestNGAnnotationsDemoSixteen@6a024a67]" name="testLogin" duration-ms="16706" started-at="2018-05-31T17:41:49Z" finished-at="2018-05-31T17:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testLogin2()[pri:0, instance:practice.TestNGAnnotationsDemoSixteen@6a024a67]" name="testLogin2" duration-ms="14453" started-at="2018-05-31T17:42:06Z" finished-at="2018-05-31T17:42:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin2 -->
+        <test-method status="PASS" signature="testLogin3()[pri:0, instance:practice.TestNGAnnotationsDemoSixteen@6a024a67]" name="testLogin3" duration-ms="15325" started-at="2018-05-31T17:42:20Z" finished-at="2018-05-31T17:42:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin3 -->
+      </class> <!-- practice.TestNGAnnotationsDemoSixteen -->
+    </test> <!-- Command line test -->
+  </suite> <!-- practice.TestNGAnnotationsDemoSixteen -->
+</testng-results>
